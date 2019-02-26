@@ -1,0 +1,37 @@
+body{
+margin:20px auto;
+width:70%;
+border: 3px black dashed;
+padding: 20xp;
+Background-color:red;
+color:yellow;
+background-image:url('main.PNG');
+background-repeat: no-repeat;
+background-color:red;
+background-position: center center;
+font-weight:normal;
+
+
+font-family:arial,sans-serif;
+}
+hl{
+color:blue;
+font-weight:normal;
+
+}
+p{
+	color:green;
+	font-family:arial;
+	border: 1px green dotted;
+}
+	#elsosor{
+		text-indent: 20px;
+	}
+	#tomor{list-style-type:disc;
+	}
+	#ures{
+		list-style-type:circle;
+	}
+	#negyzet{
+		list-style-type:square;
+	}
